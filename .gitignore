@@ -6,7 +6,7 @@
 [Oo]bj/
 3rdParty/
 Builds/
-
+LeapMotion/
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
@@ -22,6 +22,7 @@ obj/
 *.unityproj
 *.booproj
 *.png
+*.vs
 # ===================================== #
 # Unity generated #
 # ===================================== #
