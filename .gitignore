@@ -7,6 +7,8 @@
 3rdParty/
 Builds/
 LeapMotion/
+Models/
+QCAR/
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
@@ -28,7 +30,8 @@ obj/
 # ===================================== #
 *.pidb.meta
 sysinfo.txt
-
+*.txt
+*.xml
 # ============ #
 # OS generated #
 # ============ #
