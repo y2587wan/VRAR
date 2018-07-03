@@ -143,9 +143,9 @@ PlayerSettings:
   protectGraphicsMemory: 1
   useHDRDisplay: 0
   m_ColorGamuts: 00000000
-  targetPixelDensity: 0
-  resolutionScalingMode: 0
-  androidSupportedAspectRatio: 1
+  targetPixelDensity: 200
+  resolutionScalingMode: 1
+  androidSupportedAspectRatio: 0
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.a.a
@@ -162,7 +162,7 @@ PlayerSettings:
   ForceSDCardPermission: 0
   CreateWallpaper: 0
   APKExpansionFiles: 0
-  keepLoadedShadersAlive: 0
+  keepLoadedShadersAlive: 1
   StripUnusedMeshComponents: 0
   VertexChannelCompressionMask:
     serializedVersion: 2
@@ -226,7 +226,7 @@ PlayerSettings:
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: 
   AndroidKeyaliasName: 
-  AndroidTVCompatibility: 1
+  AndroidTVCompatibility: 0
   AndroidIsGame: 1
   AndroidEnableTango: 0
   androidEnableBanner: 1
