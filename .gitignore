@@ -6,7 +6,10 @@
 [Oo]bj/
 3rdParty/
 Builds/
-
+LeapMotion/
+Models/
+QCAR/
+MMD4Mecanim
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
@@ -22,12 +25,14 @@ obj/
 *.unityproj
 *.booproj
 *.png
+*.vs
 # ===================================== #
 # Unity generated #
 # ===================================== #
 *.pidb.meta
 sysinfo.txt
-
+*.txt
+*.xml
 # ============ #
 # OS generated #
 # ============ #
